@@ -1,11 +1,11 @@
 # ChatGPT 中文版【国内访问指南】（支持GPT-4，无需翻墙）2025最新国内入口~
 
-> **更新日期：2025/06/05**                  
+> **更新日期：2025/06/11**                  
 
-**国内能访问的 [ChatGPT 中文版](https://chat.lanjing.pro)，无需翻墙即可使用 GPT-4、o1、o3及更多中文功能应用！**   
-本指南提供全面的 **[ChatGPT 中文版](https://chat.lanjing.pro)使用指南**，同时整理了国内可用的 [**ChatGPT 镜像网站**](https://xsimplechat.com) 和**官网使用教程**，满足你在工作学习、日常生活中，全方面的需求~
+**国内能访问的 [ChatGPT 中文版](https://chat.lanjingai.org)，无需翻墙即可使用 GPT-4、o1、o3及更多中文功能应用！**   
+本指南提供全面的 **[ChatGPT 中文版](https://chat.lanjingai.org)使用指南**，同时整理了国内可用的 [**ChatGPT 镜像网站**](https://xsimplechat.com) 和**官网使用教程**，满足你在工作学习、日常生活中，全方面的需求~
 
-**ChatGPT 中文版入口：[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
+**ChatGPT 中文版入口：[https://chat.lanjingai.org](https://chat.lanjingai.org)**   
 **ChatGPT 镜像网站：[https://xsimplechat.com](https://xsimplechat.com)**
 
 ---
@@ -23,7 +23,7 @@
 
 ## 什么是 ChatGPT 中文版？
 
-[**ChatGPT 中文版**](https://chat.lanjing.pro) 是基于 OpenAI的 ChatGPT模型的中文使用版本，专为中文用户设计，提供更流畅、更精准的智能AI对话。   
+[**ChatGPT 中文版**](https://chat.lanjingai.org) 是基于 OpenAI的 ChatGPT模型的中文使用版本，专为中文用户设计，提供更流畅、更精准的智能AI对话。   
 在很多方面更适合国内用户：
 
 - **中文能力**：更流畅、更智能的中文对话能力，适合学习、办公和日常使用。
@@ -39,9 +39,9 @@
 | 中文站网址                            | 支持模型                         | 稳定性 | 功能亮点                                                         |
 |---------------------------------------|----------------------------------|--------|------------------------------------------------------------------|
 | **[chat.yixiaai.com](https://xsimplechat.com)** | GPT-4, GPT-4o, o1, o3 | ⭐⭐⭐⭐⭐  | 支持 ChatGPT 全模型，支持 AI 绘画、AI 助手、AI 插件，适合学生党和打工人 |
-| **[chat.lanjing.pro](https://chat.lanjing.pro)**  | GPT-4, GPT-3.5, o1, o3, DeepSeek-R1, Claude 3.7 sonnet  | ⭐⭐⭐⭐⭐  | 使用简单，先进大模型，适合新手用户       |
+| **[chat.lanjingai.org](https://chat.lanjingai.org)**  | GPT-4, GPT-3.5, o1, o3, DeepSeek-R1, Claude 3.7 sonnet  | ⭐⭐⭐⭐⭐  | 使用简单，先进大模型，适合新手用户       |
 | **[chat.lify.vip](https://chat.yixiaai.com)**   | GPT-4, GPT-4o, o1, o3 | ⭐⭐⭐⭐⭐  | 支持 o1、o3 和 R1 等全模型，支持 AI 写作、AI 编程、AI 办公，适应多种行业需求   |
-| **[chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com)** | GPT-4, GPT-4o, o1     | ⭐⭐⭐⭐   | 提供 AI 使用指南，ChatGPT 中文版使用指南                       |
+| **[chat.chatgpt-chinese.com](https://lanjing.pro)** | GPT-4, GPT-4o, o1     | ⭐⭐⭐⭐   | 提供 AI 使用指南，ChatGPT 中文版使用指南                       |
 | **[yixiaai.cn](https://yixiaai.cn)**           | GPT-4, GPT-3.5, 4o mini           | ⭐⭐⭐⭐   | AI 工具导航网站，汇聚大量工具，满足你的各种需求                   |
 
 ---
@@ -50,7 +50,7 @@
 
 **通过镜像网站快速体验**
 
-1. **选择镜像站点**：访问推荐的镜像站点（如 **[chat.lanjing.pro](https://chat.lanjing.pro)**）。
+1. **选择镜像站点**：访问推荐的镜像站点（如 **[chat.lanjingai.org](https://chat.lanjingai.org)**）。
 2. **扫码使用**：
    - **扫码登录**：扫码即可登录。
    - **免注册**：直接进入聊天界面，输入问题即可获得回答。
